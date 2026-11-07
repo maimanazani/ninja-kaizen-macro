@@ -23,8 +23,19 @@ GRADE_BUTTONS = {"A": (681, 317), "B": (681, 383), "C": (681, 450)}
 MISSIONS = [
     ("A", "Concern of Norobi", "3/10", "1"),
     ("B", "Where are the Hooligans?", "3/10", "1"),
+    ("B", "Mountain Bandits", "10/10", "1"),
     ("C", "Hardworking Student", "3/18", "1"),
     ("C", "Blacksmith's Request", "3/18", "2"),
+    ("C", "Confidential Document", "3/18", "3"),
+    ("C", "Weaver's Request", "6/18", "1"),
+    ("C", "Conflicts with the Samurai", "6/18", "2"),
+    ("C", "Yuna's Request", "6/18", "3"),
+    ("C", "Grandmother's Gift", "9/18", "1"),
+    ("C", "Find the Antidote", "9/18", "2"),
+    ("C", "Enemies for Interrogation", "9/18", "3"),
+    ("C", "The Mysterious Light", "12/18", "1"),
+    ("C", "The Desert Bandits", "12/18", "2"),
+    ("C", "Escort the Merchant", "12/18", "3"),
 ]
 CALIBRATION_BOXES = {
     "Mission list": (510, 55, 850, 111),
