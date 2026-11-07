@@ -22,6 +22,7 @@ GRADE_BUTTONS = {"A": (681, 317), "B": (681, 383), "C": (681, 450)}
 # Known missions: (grade, name, page, row) — row "1" top, "2" middle, "3" bottom.
 MISSIONS = [
     ("A", "Concern of Norobi", "3/10", "1"),
+    ("A", "The Antique Vase", "3/10", "2"),
     ("B", "Where are the Hooligans?", "3/10", "1"),
     ("B", "Mountain Bandits", "10/10", "1"),
     ("C", "Hardworking Student", "3/18", "1"),
@@ -36,6 +37,12 @@ MISSIONS = [
     ("C", "The Mysterious Light", "12/18", "1"),
     ("C", "The Desert Bandits", "12/18", "2"),
     ("C", "Escort the Merchant", "12/18", "3"),
+    ("C", "Explosive Mines", "15/18", "1"),
+    ("C", "It's the Samurai Again", "15/18", "2"),
+    ("C", "Assassinate the Ninja Spy Leader", "15/18", "3"),
+    ("C", "Sea Robbers are Back", "18/18", "1"),
+    ("C", "Clear Main Artery", "18/18", "2"),
+    ("C", "Threatening Soil Village", "18/18", "3"),
 ]
 CALIBRATION_BOXES = {
     "Mission list": (510, 55, 850, 111),
