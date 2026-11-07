@@ -23,6 +23,7 @@ GRADE_BUTTONS = {"A": (681, 317), "B": (681, 383), "C": (681, 450)}
 MISSIONS = [
     ("A", "Concern of Norobi", "3/10", "1"),
     ("A", "The Antique Vase", "3/10", "2"),
+    ("A", "The Mysterious Mist", "3/10", "3"),
     ("B", "Where are the Hooligans?", "3/10", "1"),
     ("B", "Mountain Bandits", "10/10", "1"),
     ("C", "Hardworking Student", "3/18", "1"),
